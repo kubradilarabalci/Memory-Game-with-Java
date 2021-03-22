@@ -1,4 +1,4 @@
-//Kübra Dilara Balcı - 16290079
+
 
 import java.net.Socket;
 import java.net.UnknownHostException;
